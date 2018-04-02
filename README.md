@@ -4,16 +4,6 @@ From
 
 https://medium.com/@neetrath/%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5-integrate-hubot-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A-line-messaging-step-by-step-4ee88311baa8
 
-### Scripting
-
-An example script is included at `scripts/example.coffee`, so check it out to
-get started, along with the [Scripting Guide][scripting-docs].
-
-For many common tasks, there's a good chance someone has already one to do just
-the thing.
-
-[scripting-docs]: https://github.com/github/hubot/blob/master/docs/scripting.md
-
 ### external-scripts
 
 There will inevitably be functionality that everyone will want. Instead of
